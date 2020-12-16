@@ -8,3 +8,5 @@ print (movies[2][1])
 
 
 print ("hello world")
+
+print ("help us from the evil sword")
